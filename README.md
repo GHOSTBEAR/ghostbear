@@ -1,18 +1,24 @@
-### Hi there 👋
+### Hello there 👋
 
-🔭 I’m currently working on
-- [tachiyomi.org](https://tachiyomi.org/), a popular manga reader for Android
-- And all my random projects
+👻🐻 I'm ghostbear, a programmer from Sweden 🇸🇪.
 
-🌱 I’m currently learning
-- More about Android Development
+🌱 I’m currently learning more about Android Development with Kotlin
 
-📫 How to reach me:
-- Discord: Ayato#6969
-- Or [email me](mailto:ghostbearprivate@gmail.com)
+📫 You can reach me via Discord @Ayato#6969 or [email me](mailto:ghostbearprivate@gmail.com)
 
-⚡ Fun fact:
-- My IDE tastes purple
+⚡ Fun fact my IDE tastes purple
+
+❤ Repositories I like:
+<div>
+	<p align="center">
+    <a href="https://github.com/inorichi/tachiyomi">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=inorichi&repo=tachiyomi&theme=material-palenight" alt="App Extensions (Rewrite)">
+		</a>
+		<a href="https://github.com/tachiyomiorg/website/">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=tachiyomiorg&repo=website&theme=material-palenight" alt="Android App (Rewrite)">
+		</a>
+	</p>
+</div>
 
 <!--
 **GHOSTBEAR/GHOSTBEAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
