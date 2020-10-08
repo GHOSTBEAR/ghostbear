@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning more about Android Development with Kotlin
 
-📫 You can reach me via Discord @Ayato#6969 or [email me](mailto:ghostbearprivate@gmail.com)
+📫 You can reach me via Discord @Ayato#6969 or [email me](mailto:mail@ghostbear.me)
 
 ⚡ Fun fact my IDE tastes purple
 
