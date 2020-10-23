@@ -1,17 +1,17 @@
 ### Hello there 👋
 
-👻🐻 I'm ghostbear, a programmer from Sweden 🇸🇪.
+👻🐻 I'm Andreas, a programmer from Sweden 🇸🇪.
 
 🌱 I’m currently learning more about Android Development with Kotlin
 
-📫 You can reach me via Discord @Ayato#6969 or [email me](mailto:mail@ghostbear.me)
+📫 You can reach me via [email](mailto:mail@ghostbear.me), alternativly you can find me on Discord @Ayato#6969
 
 ⚡ Fun fact my IDE tastes purple
 
 ❤ Repositories I like:
 <div>
 	<p align="center">
-    <a href="https://github.com/inorichi/tachiyomi">
+    		<a href="https://github.com/inorichi/tachiyomi">
 			<img src="https://github-readme-stats.vercel.app/api/pin/?username=inorichi&repo=tachiyomi&theme=material-palenight" alt="App Extensions (Rewrite)">
 		</a>
 		<a href="https://github.com/tachiyomiorg/website/">
