@@ -11,11 +11,11 @@
 ❤ Repositories I like:
 <div>
 	<p align="center">
-    		<a href="https://github.com/inorichi/tachiyomi">
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=inorichi&repo=tachiyomi&theme=material-palenight" alt="App Extensions (Rewrite)">
+    		<a href="https://github.com/tachiyomiorg/tachiyomi">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=tachiyomiorg&repo=tachiyomi&theme=material-palenight" alt="Android App">
 		</a>
 		<a href="https://github.com/tachiyomiorg/website/">
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=tachiyomiorg&repo=website&theme=material-palenight" alt="Android App (Rewrite)">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=tachiyomiorg&repo=website&theme=material-palenight" alt="Website">
 		</a>
 	</p>
 </div>
