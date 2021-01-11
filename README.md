@@ -9,14 +9,13 @@
 ⚡ Fun fact my IDE tastes purple
 
 ❤ Repositories I like:
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi), a free and open source manga reader for Android.
+- [LISTEN.moe](https://github.com/LISTEN-moe/android-app), an open source (J/K)-pop radio app for Android
+
 <div>
 	<p align="center">
-    		<a href="https://github.com/tachiyomiorg/tachiyomi">
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=tachiyomiorg&repo=tachiyomi&theme=material-palenight" alt="Android App">
-		</a>
-		<a href="https://github.com/tachiyomiorg/website/">
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=tachiyomiorg&repo=website&theme=material-palenight" alt="Website">
-		</a>
+		<img src="https://github.com/ghostbear/github-stats/blob/master/generated/overview.svg">
+		<img src="https://github.com/ghostbear/github-stats/blob/master/generated/languages.svg">
 	</p>
 </div>
 
