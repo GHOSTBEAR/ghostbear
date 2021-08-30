@@ -1,23 +1,28 @@
-### Hello there 👋
-
-👻🐻 I'm Andreas, a programmer from Sweden 🇸🇪.
+<h1 align="center">Hallå 👋, I'm Andreas</h1>
+<h3 align="center">A geisterbär, 👻🐻, from Sweden 🇸🇪. Who like to work on mobile applications, sometimes even I will use JavaScript to make webpages</h3>
 
 🌱 I’m currently learning more about Android Development with Kotlin
 
-📫 You can reach me via [email](mailto:mail@ghostbear.me), alternativly you can find me on Discord @Ayato#6969
+📫 You can reach me via [email](mailto:mail@ghostbear.me)
 
 ⚡ Fun fact my IDE tastes purple
 
-❤ Repositories I like:
+❤ Repositories I like
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi), a free and open source manga reader for Android.
 - [LISTEN.moe](https://github.com/LISTEN-moe/android-app), an open source (J/K)-pop radio app for Android
 
+🌍 Languages
+- Svenska 🇸🇪
+- English 🇬🇧 🇺🇸 🇦🇺
+- And some Deutsch 🇩🇪
+
 <div>
 	<p align="center">
-		<img src="https://github.com/ghostbear/github-stats/blob/master/generated/overview.svg">
-		<img src="https://github.com/ghostbear/github-stats/blob/master/generated/languages.svg">
+		<img src="https://github-readme-stats.vercel.app/api?username=ghostbear&show_icons=true&locale=en" alt="ghostbear" />
 	</p>
 </div>
+
+
 
 <!--
 **GHOSTBEAR/GHOSTBEAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
