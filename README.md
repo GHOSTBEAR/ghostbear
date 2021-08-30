@@ -16,6 +16,10 @@
 - English 🇬🇧 🇺🇸 🇦🇺
 - And some Deutsch 🇩🇪
 
+💾 Programming Languages
+- Kotlin
+- JavaScript
+
 <div>
 	<p align="center">
 		<img src="https://github-readme-stats.vercel.app/api?username=ghostbear&show_icons=true&locale=en" alt="ghostbear" />
