@@ -23,7 +23,7 @@
 	</p>
 </div>
 
-<img style="transform: rotate(180deg); height: 75px; width: 100%" src="./assets/bottom.svg" alt="ghostbear" />
+<img style="height: 75px; width: 100%" src="./assets/bottom.svg" alt="ghostbear" />
 
 <!--
 **GHOSTBEAR/GHOSTBEAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
