@@ -1,3 +1,5 @@
+<img src="./assets/top.svg" alt="ghostbear" />
+
 <h1 align="center">Hallå 👋, I'm Andreas</h1>
 <h3 align="center">A geisterbär, 👻🐻, from Sweden 🇸🇪. Who like to work on mobile applications, sometimes even I will use JavaScript to make webpages</h3>
 
@@ -11,12 +13,7 @@
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi), a free and open source manga reader for Android.
 - [LISTEN.moe](https://github.com/LISTEN-moe/android-app), an open source (J/K)-pop radio app for Android
 
-🌍 Languages
-- Svenska 🇸🇪
-- English 🇬🇧 🇺🇸 🇦🇺
-- And some Deutsch 🇩🇪
-
-💾 Programming Languages
+💾 Favorite programming Languages
 - Kotlin
 - JavaScript
 
@@ -26,7 +23,7 @@
 	</p>
 </div>
 
-
+<img style="transform: rotate(180deg); height: 75px; width: 100%" src="./assets/bottom.svg" alt="ghostbear" />
 
 <!--
 **GHOSTBEAR/GHOSTBEAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
