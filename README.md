@@ -19,7 +19,7 @@
 
 <div>
 	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api?username=ghostbear&show_icons=true&locale=en" alt="ghostbear" />
+		<img src="https://github-readme-stats.vercel.app/api?username=ghostbear&show_icons=true&locale=en&title_color=D32E6B&icon_color=D32E6B" alt="ghostbear" />
 	</p>
 </div>
 
