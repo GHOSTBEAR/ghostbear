@@ -1,19 +1,23 @@
 <img src="./assets/top.svg" alt="ghostbear" />
 
-<h1 align="center">Hallå 👋, I'm Andreas</h1>
-<h3 align="center">A geisterbär, 👻🐻, from Sweden 🇸🇪. Who like to work on mobile applications, sometimes even I will use JavaScript to make webpages</h3>
+<h1 align="center">Hallå där 👋</h1>
 
-🌱 I’m currently learning more about Android Development with Kotlin
+Here is a ghostbear which is known as Andreas and he lives in a great country which lies in Scandinavia called Sweden. He likes working on mobile applications, but as long as code is involved he will probably work on it without much complaining. When he is not coding then he is probably cooking something or enjoying some manga.
 
-📫 You can reach me via [email](mailto:mail@ghostbear.me)
+---
 
-⚡ Fun fact my IDE tastes purple
+🌱 Ghostbear is currently learning more about Android Development with Kotlin
 
-❤ Repositories I like
+⚡ Fun fact he will most likley do a table flip if he sees old code
+
+😄 Pronouns
+- He/Him
+
+❤ Favorite repositories
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi), a free and open source manga reader for Android.
 - [LISTEN.moe](https://github.com/LISTEN-moe/android-app), an open source (J/K)-pop radio app for Android
 
-💾 Favorite programming Languages
+💾 Favorite programming languages
 - Kotlin
 - JavaScript
 
